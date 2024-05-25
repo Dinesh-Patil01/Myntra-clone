@@ -3,7 +3,7 @@
 
 **Deployed Link**
 
-https://saurav01myntra.netlify.app/
+https://myntra-clone-coral-sigma.vercel.app/
 
 
 I learned a lot while working on this project. For enhancing my coding skills I use to build such type of projects. I failed so many times but never give up, in the last finally made Project successfully.
